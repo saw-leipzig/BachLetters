@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata from this file."
+authors:
+  - family-names: Rettinghaus
+    given-names: Klaus
+    orcid: https://orcid.org/0000-0003-1898-2543
+title: "Briefe der Bach-Familie"
+abstract: "Digitales Verzeichnis von Briefen der Musikerfamilie Bach, sowohl tabellarisch im CSV-Format als auch im CMI-Format."
+type: dataset
+version: v2.1.1
+doi: 10.5281/zenodo.2602939
+license: CC-BY-4.0
+date-released: 2021-01-03
